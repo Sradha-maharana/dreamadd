@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main ()
 {
-printf("hellbetch");
+printf("hell0betch");
     return 0;
 }
